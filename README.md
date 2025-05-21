@@ -1,4 +1,4 @@
-# 🐍 Lista de Exercícios – Versão para Prática
+# 🐍 Lista de Exercícios 
 
 ## Exercício 01 – Comparação de Notas
 
