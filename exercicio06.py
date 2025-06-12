@@ -6,5 +6,5 @@ if acesso_plataforma  == 9:
 elif acesso_plataforma == 21:
     print("horario autorizado. ")
 else:
-    print("horario não autorizado")
+    print("horario não autorizado.")
     
